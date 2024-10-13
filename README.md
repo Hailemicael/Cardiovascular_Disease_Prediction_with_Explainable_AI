@@ -34,8 +34,7 @@ The dataset contains 299 records and 13 features that represent the clinical his
 
 4. **Model Evaluation:**
    - Each model is evaluated using accuracy, precision, recall, F1-score, and confusion matrices.
-   - ROC curves are generated to visualize model performance.
-
+     
 5. **Explainable AI Integration:**
    - SHAP and LIME are applied to provide explanations for model predictions.
    - SHAP provides global explanations showing feature importance for each model.
