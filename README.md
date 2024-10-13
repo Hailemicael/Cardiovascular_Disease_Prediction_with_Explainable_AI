@@ -12,7 +12,7 @@ The dataset contains 299 records and 13 features that represent the clinical his
 - Serum Creatinine
 - Serum Sodium
 - Time (follow-up period)
-- Death Event (target variable indicating whether the patient experienced heart failure)
+- Death Event (target variable)
 
 ## Project Workflow
 
